@@ -7,7 +7,7 @@ import {Navbar} from './components';
 const App = () => (
   <div className='App'>
     <div classname="gradient__bg">
-      <Navbar />
+      {/* </Navbar /> */}
       <Header />
     </div>
   </div>
